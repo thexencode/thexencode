@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thexencode
-- 👀 I’m interested in 
-- 🌱 I’m currently learning software developing
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tolu
+- 👀 I’m interested in Software engineeering
+- 🌱 I’m currently learning Web technologoies 
+- 💞️ I’m looking to collaborate on Web related projects
 - 📫 How to reach me olamilous@gmail.com
 
 <!---
